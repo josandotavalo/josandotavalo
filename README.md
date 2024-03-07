@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="piture.jpg"  />
+<img align="right" height="150" src="picture.jpg"  />
 
 ###
 
